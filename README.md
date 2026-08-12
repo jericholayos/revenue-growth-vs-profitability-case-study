@@ -1,9 +1,14 @@
 # Revenue Growth vs. Profitability Case Study
 
-## Overview
+## Business Problem
 
-This case study answers a simple business question: **how can the business improve profitability while sustaining revenue growth?**
+Management wants to understand the drivers of revenue and profitability performance in 2025, identify underperforming product and customer segments, and determine where operational improvements could have the greatest business impact.
 
-Revenue grew significantly year over year, but profit margin barely moved, meaning growth alone isn't solving the company's profitability problem. This project digs into why, using Python to clean the raw sales data, PostgreSQL to model it into a star schema and run the analysis, and Power BI to visualize the findings.
+## Key Questions
 
-## What I
+- How did sales and profitability change compared with 2024?
+- Which product categories drive revenue and profit?
+- Which customer segments contribute the most value?
+- Are returns affecting specific customer segments or categories?
+- What operational factors are associated with performance?
+- Which areas should management prioritize?
