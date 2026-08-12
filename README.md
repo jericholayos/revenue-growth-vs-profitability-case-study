@@ -13,5 +13,8 @@ Management wants to understand the drivers of revenue and profitability performa
 - What operational factors are associated with performance?
 - Which areas should management prioritize?
 
+## Dashboard 
 <img width="1177" height="797" alt="image" src="https://github.com/user-attachments/assets/7fe4681a-2a60-4674-b573-92a2638fa2ad" />
 <img width="1174" height="799" alt="image" src="https://github.com/user-attachments/assets/722772d1-3ec5-4b14-9209-3ec7115b2f84" />
+
+
