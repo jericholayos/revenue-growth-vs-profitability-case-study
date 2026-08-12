@@ -15,6 +15,6 @@ Management wants to understand the drivers of revenue and profitability performa
 
 ## Dashboard 
 <img width="1195" height="805" alt="image" src="https://github.com/user-attachments/assets/2a71e99c-e5dd-4b54-9449-0ea63fc03ccb" />
-<img width="1191" height="806" alt="image" src="https://github.com/user-attachments/assets/07944110-392e-458e-b63c-97f69b3e90cc" />
+<img width="1193" height="807" alt="image" src="https://github.com/user-attachments/assets/3cf9ac43-cbdb-4c44-a9b0-3a1599512176" />
 
 
