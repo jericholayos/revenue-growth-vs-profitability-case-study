@@ -1,5 +1,3 @@
-# Revenue Growth vs. Profitability Case Study
-
 ## Business Problem
 
 Management wants to understand the drivers of revenue and profitability performance in 2025, identify underperforming product and customer segments, and determine where operational improvements could have the greatest business impact.
