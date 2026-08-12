@@ -14,7 +14,7 @@ Management wants to understand the drivers of revenue and profitability performa
 - Which areas should management prioritize?
 
 ## Dashboard 
-<img width="1195" height="805" alt="image" src="https://github.com/user-attachments/assets/2a71e99c-e5dd-4b54-9449-0ea63fc03ccb" />
-<img width="1193" height="807" alt="image" src="https://github.com/user-attachments/assets/3cf9ac43-cbdb-4c44-a9b0-3a1599512176" />
+<img width="1191" height="802" alt="Page-1" src="https://github.com/user-attachments/assets/63630477-b1cb-4889-9cd2-8cb306ee2fcf" />
+<img width="1193" height="805" alt="Page-2" src="https://github.com/user-attachments/assets/1dfdfa2a-d842-4480-afe9-3fd1789a7b97" />
 
 
